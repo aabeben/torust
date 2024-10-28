@@ -1,4 +1,4 @@
-# **Variables**
+# **Peubah-peubah**
 
 Peubah-peubah dideklarasikan menggunakan katakunci **let**.
 
